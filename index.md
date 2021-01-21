@@ -1,5 +1,5 @@
 Privacy Policy
-Last updated: May 31, 2020
+Last updated: January 21, 2021
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -16,7 +16,7 @@ You means the individual accessing or using the Service, or the company, or othe
 
 Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to MoviesHub.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Entertainment Guide.
 
 For the purpose of the GDPR, the Company is the Data Controller.
 
